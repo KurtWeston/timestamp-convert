@@ -19,7 +19,7 @@ A CLI utility for converting between timestamp formats with timezone support and
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/timestamp-convert.git
+git clone https://github.com/KurtWeston/timestamp-convert.git
 cd timestamp-convert
 
 # Install dependencies
